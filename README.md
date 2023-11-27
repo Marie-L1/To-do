@@ -6,7 +6,7 @@ Description:
 I created a to-do list website that uses HTML, CSS, and JavaScript. The application allows you to create tasks, cross them off, uncross them off, and delete them. The tasks are saved to your browser if you refresh the page. 
 Although it is a pretty simple concept of an application, I still learnt more JavaScript and became more comfortable with new syntax. As well, I dove deeper in CSS and found new resources that I can use in the future. 
 
-In my HTML file, I made the choice of leaving out my JavaScript and linking it to itsown file. I knew all of the commands of the task buttons would be run through JS, and I didn't want to bulk up my HTML file too much. At first, for the list of tasks that I created, I made it in the HTML file with the "<ul>" and "<li>", but I knew that I needed to use JS for the controls. I left that in as a comment. 
+In my HTML file, I made the choice of leaving out my JavaScript and linking it to itsown file. I knew all of the commands of the task buttons would be run through JS, and I didn't want to bulk up my HTML file too much. At first, for the list of tasks that I created, I made it in the HTML file with the "ul" and "li", but I knew that I needed to use JS for the controls. I left that in as a comment. 
 
 In my CSS file, I first set the whole page's design. Then I did a lot of research of different styles; how to round the buttons and colour codes. I found images online as png files to add. I had to figure out how to change the colour of sections when they are hovered over too. I picked a light gradient of greens for the background, because I didn't want anything too distracting from the main task. 
 
