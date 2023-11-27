@@ -14,5 +14,5 @@ For the JavaScript file, I did a lot of research on buttons and found a lot of g
 
 I had to research how to save data to a local server using JavaScript and how to display the data whenever I open the website. Which was a good skill to learn and suprisingly easy.
 I also researched how to use GitHub and how to push code to GitHub. This was the part I struggled with the most, but I feel that I learnt a lot and gained more confidence in using GitHub. 
-I think in the furture, once I develop more skills and feel more confident, I would create a page similar to what I made. But I would add other components for studying, like a timer and other applications that would keep the user focused on their tasks. 
+I think in the furture, once I develop more skills and feel more confident, I would create a page similar to what I made. But I would add other components for studying or working, like a timer or a points system implemented into the system, where they can collect points from each task they complete.
 
