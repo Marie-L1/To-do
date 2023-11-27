@@ -8,7 +8,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135degree, #556B25, #8FBC8B);
+    background: linear-gradient(135deg, #556B25, #8FBC8B);
     padding: 10px;
 }
 
@@ -61,7 +61,7 @@ button{
     border-radius: 40px;
 }
 
-ul il{
+ul li{
     list-style:  none;
     font-size: 17px;
     padding: 12px 8px 12px 50px;
